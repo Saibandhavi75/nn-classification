@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/nn-classification/blob/main/2.png?raw=true)
 
 ## DESIGN STEPS
 
@@ -212,25 +212,25 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/nn-classification/blob/main/2-1.png?raw=true)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/nn-classification/blob/main/2-2.png?raw=true)
 
 ### Classification Report
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/nn-classification/blob/main/2-3.png?raw=true)
 
 ### Confusion Matrix
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/nn-classification/blob/main/2-4.png?raw=true)
 
 ### New Sample Data Prediction
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/nn-classification/blob/main/2-5.png?raw=true)
 
 ## RESULT:
 A neural network classification model is developed for the given dataset.
